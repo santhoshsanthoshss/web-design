@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.frame{
+    width: 30%;
+    height: 267vh;
+    align-items: center;
+    justify-content: center;
+    border: outset;
+    border-width: 4px;
+    border-radius: 10px;
+    border-color: gold ;
+    margin-left: 35%;
+    margin-top: 40px;
+    overflow: hidden; 
+   
+}
+
+
+
+.value{
+     /* background-image: linear-gradient(45deg, #6303B1, #ff0099);
+      */
+      background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg);
+	  /* padding: 45px; */
+  padding-right: 18px;
+  padding-bottom: 50px;
+  padding-left: 4em; 
+  border-radius:1px ;
+  /* overflow: hidden; */
+}
+.value h1{
+  /* width:100%; */
+  font-size: 20px;
+font-family: 'Zen Antique Soft', serif;
+letter-spacing: 2px;
+}
+.value h1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+.value p{
+  color: white;
+}
+.long{
+     background-image: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg);
+	border-bottom-left-radius: 220px;
+    transform: skewY(-1deg);
+    margin-top: -6px;
+  padding-right: 18px;
+  padding-bottom: 80px;
+  padding-left: 4em; 
+  border-radius:5px ; 
+  overflow: hidden;  
+  
+}
+.long h1{
+  font-size: 18px;
+font-family: 'Zen Antique Soft', serif;
+letter-spacing: 2px;
+}
+.long h1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+
+.story{
+  background-image: url(https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg);
+	border-bottom-left-radius: 220px;
+    transform: skewY(-1deg);
+    margin-top: -6px;
+  padding-right: 18px;
+  padding-bottom: 80px;
+  padding-left: 4em; 
+  border-radius:5px ; 
+  overflow: hidden;  
+  color: white;
+}
+.story h1{
+  font-size: 20px;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing: 8px;
+}
+.story h1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+.story p{
+  color: white;
+}
+.simple{
+  background-image: url(https://cdn.trendhunterstatic.com/thumbs/380/cool-backgrounds.jpeg);
+	border-bottom-left-radius: 220px;
+    transform: skewY(-1deg);
+    margin-top: -6px;
+  padding-right: 18px;
+  padding-bottom: 80px;
+  padding-left: 4em; 
+  border-radius:5px ; 
+  overflow: hidden;  
+  color: white;
+}
+
+.simple H1{
+  font-size: 20px;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing: 5px; 
+}
+.simple H1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+
+.simple p{
+  color: white;
+}
+
+
+.punch{
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-chinese-style-new-year-red-gold-background-material-stylered-gold-backgroundhappy-image_80338.jpg);
+	border-bottom-left-radius: 220px;
+    transform: skewY(-1deg);
+    margin-top: -6px;
+  padding-right: 18px;
+  padding-bottom: 80px;
+  padding-left: 4em; 
+  border-radius:5px ; 
+  overflow: hidden; 
+  color: white; 
+}
+.punch H1{
+  font-size: 20px;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing: 5px; 
+}
+.punch H1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+.punch p{
+  color: white;
+}
+
+.flower{
+  background-image: url(https://wallpaperaccess.com/full/327139.jpg);
+  border-bottom-left-radius: 220px;
+  transform: skewY(-1deg);
+  margin-top: -6px;
+padding-right: 18px;
+padding-bottom: 80px;
+padding-left: 4em; 
+border-radius:5px ; 
+overflow: hidden; 
+color: white;
+}
+.flower H1{
+  font-size: 17px;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing:2px; 
+  color: white;
+}
+.flower P{
+  color: white;
+}
+.flower H1::first-letter{
+  color: wheat;
+  font-size: 40px;
+}
+
+.last{
+  background-image: url(https://images.hdqwalls.com/download/4k-texture-simple-background-21-1280x720.jpg);
+  border-bottom-left-radius: 220px;
+  transform: skewY(-1deg);
+  margin-top: -6px;
+padding-right: 18px;
+padding-bottom: 80px;
+padding-left: 4em; 
+border-radius:5px ; 
+overflow: hidden; 
+color: white;
+}
+.last h1{
+  font-size: 22px;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing:2px; 
+  color: white;
+}
+.last h1::first-letter{
+  color: black;
+  font-size: 40px;
+}
+.last p{
+  color: white;
+}
+.text{
+  background-color: gray;
+  border-bottom-left-radius: 220px;
+  transform: skewY(-1deg);
+  margin-top: -6px;
+padding-right: 18px;
+padding-bottom: 90px;
+padding-left: 4em; 
+border-radius:5px ; 
+overflow: hidden; 
+}
+.text p{
+  color: white;
+}
